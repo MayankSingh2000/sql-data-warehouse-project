@@ -95,6 +95,17 @@ This insights empower stakeholders with key business metrics, enabling strategic
 
 ## License
 
-This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+This project is licensed under the MIT License.
+
+---
+
+## 📚 Dataset Credits
+
+- Dataset Name: **Data Warehouse and Analytics** 
+- Provided By: **@Baraa Khatib Salkini**  
+- Purpose: **Educational & Practice Use**  
+- Used For: **Data Warehouse and Analytics Project**
+
+All credit for the original dataset goes to the respective provider.
 
 
