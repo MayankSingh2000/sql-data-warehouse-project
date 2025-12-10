@@ -102,10 +102,16 @@ This project is licensed under the MIT License.
 ## 📚 Dataset Credits
 
 - Dataset Name: **Data Warehouse and Analytics** 
-- Provided By: **@DataWithBaraa**  
+- Provided By: **Baraa Khatib Salkini(DataWithBaraa)**  
 - Purpose: **Educational & Practice Use**  
 - Used For: **Data Warehouse and Analytics Project**
 
 All credit for the original dataset goes to the respective provider.
+
+---
+
+## 🙏 Acknowledgements
+
+Special thanks to [@DataWithBaraa](https://github.com/DataWithBaraa) for providing learning resources and datasets.
 
 
